@@ -3,4 +3,11 @@
     <string name="app_name">AndroidAssignments</string>
     <string name="hello_message">嗨，你好!</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="login">用户</string>
+    <string name="login_name">用户名</string>
+    <string name="password">密码</string>
+    <string name="switchButton">这个按钮干嘛的？</string>
+    <string name="checkbox">复选框</string>
+    <string name="radiobutton">单选按钮</string>
+    <string name="imageBtn">图形按钮</string>
 </resources>
