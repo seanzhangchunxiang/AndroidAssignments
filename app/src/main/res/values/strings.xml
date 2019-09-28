@@ -9,4 +9,13 @@
     <string name="checkbox">CheckBox</string>
     <string name="radiobutton">RadioButton</string>
     <string name="imageBtn">TODO</string>
+    <string name="button">Login Button</string>
+    <string name="dialog_message">Do you want to finish the activity?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title">dialog window</string>
+    <string name="switch_on">Switch is On</string>
+    <string name="switch_off">Switch is Off</string>
+    <string name="response_info">Here is my response</string>
+    <string name="no_camera">This device does not have a camera.</string>
 </resources>

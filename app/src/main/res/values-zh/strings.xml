@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">AndroidAssignments</string>
     <string name="hello_message">嗨，你好!</string>
-    <string name="ButtonText">I\'m a button</string>
+    <string name="ButtonText">我是一个按钮</string>
     <string name="login">用户</string>
     <string name="login_name">用户名</string>
     <string name="password">密码</string>
@@ -10,4 +10,13 @@
     <string name="checkbox">复选框</string>
     <string name="radiobutton">单选按钮</string>
     <string name="imageBtn">图形按钮</string>
+    <string name="button">登录</string>
+    <string name="dialog_message">你想退出吗？</string>
+    <string name="ok">好的</string>
+    <string name="cancel">取消</string>
+    <string name="dialog_title">确认对话框</string>
+    <string name="switch_on">开关被打开了</string>
+    <string name="switch_off">开关被关上了</string>
+    <string name="response_info">这是多组件页面返回信息</string>
+    <string name="no_camera">系统没检测到摄像头</string>
 </resources>
