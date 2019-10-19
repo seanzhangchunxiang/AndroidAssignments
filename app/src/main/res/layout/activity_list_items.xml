@@ -40,8 +40,8 @@
         android:layout_column="1"
         android:layout_columnWeight="1"
         android:layout_gravity="fill"
-        android:contentDescription="@string/imageBtn"
         android:onClick="myClick"
+        android:contentDescription="@string/select_image"
         app:srcCompat="@android:drawable/ic_menu_camera" />
 
 
