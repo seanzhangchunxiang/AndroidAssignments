@@ -17,5 +17,9 @@
     <string name="switch_on">Switch is On</string>
     <string name="switch_off">Switch is Off</string>
     <string name="response_info">Here is my response</string>
+    <string name="start_chat">Start Chat</string>
+    <string name="send">Send</string>
+    <string name="input_message">Please input message</string>
+    <string name="select_image">Select image</string>
     <string name="no_camera">This device does not have a camera.</string>
 </resources>

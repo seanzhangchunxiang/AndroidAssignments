@@ -18,5 +18,9 @@
     <string name="switch_on">开关被打开了</string>
     <string name="switch_off">开关被关上了</string>
     <string name="response_info">这是多组件页面返回信息</string>
+    <string name="start_chat">开始聊天</string>
+    <string name="send">发送</string>
+    <string name="input_message">请输入消息</string>
+    <string name="select_image">选择图像</string>
     <string name="no_camera">系统没检测到摄像头</string>
 </resources>

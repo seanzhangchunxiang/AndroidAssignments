@@ -51,6 +51,11 @@ public class StartActivity extends AppCompatActivity {
         startActivityForResult(new Intent(StartActivity.this, ListItemsActivity.class), 10);
     }
 
+    public void startChatButtonHandler(View view) {
+        Log.i(ACTIVITY_NAME, "User clicked Start Chat");
+        startActivityForResult(new Intent(StartActivity.this, ChatWindow.class), 9);
+    }
+
     public void onActivityResult(int requestCode, int responseCode, Intent data){
         super.onActivityResult(requestCode, responseCode, data);
 
