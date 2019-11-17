@@ -56,6 +56,11 @@ public class StartActivity extends AppCompatActivity {
         startActivityForResult(new Intent(StartActivity.this, ChatWindow.class), 9);
     }
 
+    public void startTestToolbarHandler(View view) {
+        Log.i(ACTIVITY_NAME,   "User clicked start test tool bar.");
+        startActivity(new Intent( StartActivity.this, TestToolbar.class));
+    }
+
     public void onActivityResult(int requestCode, int responseCode, Intent data){
         super.onActivityResult(requestCode, responseCode, data);
 
