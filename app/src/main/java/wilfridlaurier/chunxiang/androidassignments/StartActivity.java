@@ -61,6 +61,11 @@ public class StartActivity extends AppCompatActivity {
         startActivity(new Intent( StartActivity.this, TestToolbar.class));
     }
 
+    public void startWeatherForecastHandler(View view) {
+        Log.i(ACTIVITY_NAME,   "User clicked weather forecast button.");
+        startActivity(new Intent( StartActivity.this, WeatherForecast.class));
+    }
+
     public void onActivityResult(int requestCode, int responseCode, Intent data){
         super.onActivityResult(requestCode, responseCode, data);
 

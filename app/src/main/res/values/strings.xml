@@ -25,4 +25,11 @@
     <string name="title_activity_test_toolbar">TestToolbar</string>
     <string name="test_tool_bar">Test tool bar</string>
     <string name="pick_color">Do you want to go back?</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="curr_temp">Current temperature: </string>
+    <string name="min_temp">Min temperature: </string>
+    <string name="max_temp">Max temperature: </string>
+    <string name="messageDetail">Message Here</string>
+    <string name="messageID">ID=</string>
+    <string name="deleteMessage">Delete this message </string>
 </resources>
